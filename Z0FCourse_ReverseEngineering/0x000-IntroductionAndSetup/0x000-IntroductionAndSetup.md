@@ -1,7 +1,9 @@
 # 0x000 - IntroductionAndSetup
 This chapter will cover information you will need as well as how to get setup.
 
-# [Table Of Contents](TableOfContents.md)
+# [Table Of Contents](../TableOfContents.md)
+
+# [Frequently Asked Questions (FAQ)](../FAQ.md)
 
 <a name="resources"></a>
 ## Resources Needed:
@@ -29,6 +31,6 @@ https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb
 <a name="importantnotes"></a>
 ## Important Notes:
 
-THIS COURSE IS A WORK IN PROGRESS! I'm nowhere near done, but feel free to watch the course develop over time! If you have any feedback or suggestions let me know on Twitter! If you would like to know a little of what I have planned, see the content inside of the [DOC](../DOC) folder.
+THIS COURSE IS A WORK IN PROGRESS! I'm nowhere near done, but feel free to watch the course develop over time! If you have any feedback or suggestions let me know on Twitter! If you would like to know a little of what I have planned, check out [DOC](../DOC/DOC.md).
 
 I use some technical lingo and abbreviations. If you forget what they mean, or don't know what they mean, go to [Lingo.md](../Lingo.md).
