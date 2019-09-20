@@ -1,4 +1,4 @@
-# Operations
+# 0x105 - Operations
 There are a few binary operations that you should know about. They are used for all sorts of things as you will see throughout the course.
 
 These operations include **NOT**, **AND**, **OR**, and **XOR**.
@@ -37,3 +37,7 @@ These operations include **NOT**, **AND**, **OR**, and **XOR**.
 <p align="center">
   <img src="[ignore]/BOXor.png">
 </p>
+
+[Chapter Home](0x100-BinaryBasics.md)
+[Previous Lesson](0x104-ProgrammingLanguages.md)
+[Next Lesson](0x106-Mindset.md)

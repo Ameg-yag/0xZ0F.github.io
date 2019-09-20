@@ -32,21 +32,18 @@ Please give me any and all **honest** feedback you have. Don't worry about hurti
 The best way to stay up-to-date is to support me on Patreon which will give you access to the Patreon-only feed. The feed includes the latest updates, upcoming updates, and more.
 <br />
 
-# Table Of Contents:
+# [Table Of Contents](TableOfContents.md):
 * ### [License](LICENSE.md)
 * ### [FAQ](FAQ.md)
 * ### [Lingo](Lingo.md)
-* ### [Readme](README.md)
-    * [Resources Needed](README.md#resources)
-    * [Prerequisites](README.md#prerequisites)
-    * [Important Notes](README.md#importantnotes)
-    * [Contact/Stay Updated](README.md#contact)
-    
+* ### [Readme](README.md)    
 * ### [Documentation (DOC)](DOC)
+    * [DOC](DOC/DOC.md)
     * [Plan](DOC/Plan.md)
     * [TODO](DOC/TODO.md)
 
 * ### [0x000 - Course Introduction and Setup](0x000-IntroductionAndSetup)
+    * [IntroductionAndSetup](0x000-IntroductionAndSetup/0x000-IntroductionAndSetup.md)
     * [HowTo](0x000-IntroductionAndSetup/0x001-HowTo.md)
     * [Setup](0x000-IntroductionAndSetup/0x002-Setup.md)
     
