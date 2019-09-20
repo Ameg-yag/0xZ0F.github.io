@@ -1,4 +1,4 @@
-# Setup
+# 0x002 - Setup
 This course will focus on 64-bit Windows, but we will talk about 32 bit and Linux as well. Note: x32 and x86 are the same.
 
 ## Operating System

@@ -1,4 +1,4 @@
-# How To Follow This Course
+# 0x001 - How To Follow This Course
 ### Course Structure:
 
 ## If you downloaded the course or you are viewing it on GitHub:

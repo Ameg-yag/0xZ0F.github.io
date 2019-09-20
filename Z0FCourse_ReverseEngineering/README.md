@@ -2,7 +2,7 @@
 
 # Z0FCourse_ReverseEngineering -- 0x000 to 0x500 Finished/Ready
 
-### This course is not yet complete. Feel free to start following it, but know that there will be errors and mistakes. To know when the course is ready, follow me on Twitter: https://twitter.com/0xZ0F
+### This course is not yet complete. Feel free to start following it, but know that there will be errors and mistakes. To know when the course is ready, follow me on [Twitter](https://twitter.com/0xZ0F).
 
 # Get Started: [0x000 - Introduction And Setup](0x000-IntroductionAndSetup/0x000-IntroductionAndSetup.md)
 
