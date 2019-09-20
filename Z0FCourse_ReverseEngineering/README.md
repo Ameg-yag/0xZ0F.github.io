@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # I'm currently migrating the course onto this website. THERE WILL BE ISSUES! I'm working to get everything going, it should be done soon!
 
 # Z0FCourse_ReverseEngineering -- 0x000 to 0x500 Finished/Ready
