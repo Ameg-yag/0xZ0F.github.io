@@ -1,10 +1,8 @@
----
-layout: default
----
+# I'm currently migrating the course onto this website. THERE WILL BE ISSUES! I'm working to get everything going, it should be done soon!
 
 # Z0FCourse_ReverseEngineering -- 0x000 to 0x500 Finished/Ready
 
-## This course is not yet complete. Feel free to start following it, but know that there will be errors and mistakes. To know when the course is ready, follow me on Twitter: https://twitter.com/0xZ0F
+### This course is not yet complete. Feel free to start following it, but know that there will be errors and mistakes. To know when the course is ready, follow me on Twitter: https://twitter.com/0xZ0F
 
 # Get Started: [0x000 - Introduction And Setup](0x000-IntroductionAndSetup/0x001-HowTo.md)
 
