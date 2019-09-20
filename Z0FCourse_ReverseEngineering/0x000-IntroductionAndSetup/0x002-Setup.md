@@ -31,4 +31,4 @@ All files we will be reversing are in [FilesNeeded](FilesNeeded). I'm unable to 
 
 [Chapter Home](0x000-IntroductionAndSetup.md)  
 [<- Previous Lesson](0x001-HowTo.md)  
-[Next Lesson ->](/Z0FCourse_ReverseEngineering/0x100-BinaryBasics/0x101-NumberSystems.md)
+[Next Lesson ->](../0x100-BinaryBasics/0x100-BinaryBasics.md)

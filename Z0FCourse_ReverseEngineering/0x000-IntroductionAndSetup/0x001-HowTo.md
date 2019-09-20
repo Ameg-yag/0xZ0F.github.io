@@ -13,5 +13,5 @@ I use some technical lingo and abbreviations. If you're unsure what they mean go
 If you haven't already, please read [README.md](../README.md) and [@BeforeYouBegin](../@BeforeYouBegin.md).
 
 [Chapter Home](0x000-IntroductionAndSetup.md)  
-[<- Previous Lesson](0x001-HowTo.md)  
+[<- Previous Lesson](0x000-IntroductionAndSetup.md)  
 [Next Lesson ->](0x002-Setup.md)

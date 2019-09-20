@@ -39,9 +39,9 @@ I use some technical lingo and abbreviations. If you forget what they mean, or d
 [Next Lesson ->](0x001-HowTo.md)
 
 * ### [0x000 - Course Introduction and Setup](0x000-IntroductionAndSetup)
-    * [IntroductionAndSetup](0x000-IntroductionAndSetup/0x000-IntroductionAndSetup.md)
-    * [HowTo](0x000-IntroductionAndSetup/0x001-HowTo.md)
-    * [Setup](0x000-IntroductionAndSetup/0x002-Setup.md)
+    * [0x000 - IntroductionAndSetup](/Z0FCourse_ReverseEngineering/0x000-IntroductionAndSetup/0x000-IntroductionAndSetup.md)
+    * [0x001 - HowTo](/Z0FCourse_ReverseEngineering/0x000-IntroductionAndSetup/0x001-HowTo.md)
+    * [0x002 - Setup](/Z0FCourse_ReverseEngineering/0x000-IntroductionAndSetup/0x002-Setup.md)
 
 [Chapter Home](0x000-IntroductionAndSetup.md)  
 [Next Lesson ->](0x001-HowTo.md)
