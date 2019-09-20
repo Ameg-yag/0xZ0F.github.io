@@ -28,3 +28,6 @@ Some other good software you may want to take a look at some time is Hopper, Rad
 All files we will be reversing are in [FilesNeeded](FilesNeeded). I'm unable to distribute all software due to legal reasons. Any programs that I didn't provide directly are listed in [FilesNeeded/@ExternalResources.txt](FilesNeeded/@ExternalResources.txt).
 
 **Warning: The files may change over time. I will try to update the course as needed.**
+
+[Previous Lesson](0x001-HowTo.md)  
+[Next Lesson](/Z0FCourse_ReverseEngineering/0x100-BinaryBasics/0x101-NumberSystems.md)

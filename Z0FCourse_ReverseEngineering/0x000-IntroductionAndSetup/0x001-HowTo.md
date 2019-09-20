@@ -10,3 +10,5 @@ Any folders or files with a name surrounded with square brackets, such as "[igno
 I use some technical lingo and abbreviations. If you're unsure what they mean go to [Lingo.md](Lingo.md).
 
 If you haven't already, please read [README.md](../README.md) and [@BeforeYouBegin](../@BeforeYouBegin.md).
+
+[Next Lesson](0x002-Setup.md)
