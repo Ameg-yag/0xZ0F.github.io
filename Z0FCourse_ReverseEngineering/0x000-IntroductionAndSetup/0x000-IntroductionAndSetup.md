@@ -34,3 +34,6 @@ https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb
 THIS COURSE IS A WORK IN PROGRESS! I'm nowhere near done, but feel free to watch the course develop over time! If you have any feedback or suggestions let me know on Twitter! If you would like to know a little of what I have planned, check out [DOC](../DOC/DOC.md).
 
 I use some technical lingo and abbreviations. If you forget what they mean, or don't know what they mean, go to [Lingo.md](../Lingo.md).
+
+[Chapter Home](0x000-IntroductionAndSetup.md)
+[Next Lesson](0x001-HowTo.md)
