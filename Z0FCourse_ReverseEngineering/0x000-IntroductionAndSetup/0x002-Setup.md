@@ -29,5 +29,6 @@ All files we will be reversing are in [FilesNeeded](FilesNeeded). I'm unable to 
 
 **Warning: The files may change over time. I will try to update the course as needed.**
 
+[Chapter Home](0x000-IntroductionAndSetup.md)
 [Previous Lesson](0x001-HowTo.md)  
 [Next Lesson](/Z0FCourse_ReverseEngineering/0x100-BinaryBasics/0x101-NumberSystems.md)
