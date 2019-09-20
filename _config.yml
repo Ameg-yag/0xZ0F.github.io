@@ -1,3 +1,4 @@
 theme: jekyll-theme-hacker
 title: Z0F
 description: Security research, development, guides, and more.
+show_downloads: true
