@@ -41,16 +41,25 @@ The best way to stay up-to-date is to support me on Patreon which will give you 
     * [DOC](DOC/DOC.md)
     * [Plan](DOC/Plan.md)
     * [TODO](DOC/TODO.md)
-    
+<br/>
+<br/>
+<br/>
+
 * ### [Documentation (DOC)](DOC)
     * [Plan](DOC/Plan.md)
     * [TODO](DOC/TODO.md)
+<br/>
+<br/>
+<br/>
 
 * ### [0x000 - Course Introduction and Setup](0x000-IntroductionAndSetup)
     * [0x000 - IntroductionAndSetup](0x000-IntroductionAndSetup/0x000-IntroductionAndSetup.md)
     * [0x001 - HowTo](0x000-IntroductionAndSetup/0x001-HowTo.md)
     * [0x002 - Setup](0x000-IntroductionAndSetup/0x002-Setup.md)
-    
+<br/>
+<br/>
+<br/>
+
 * ### [0x100 - Binary Basics](0x100-BinaryBasics)
     * [0x100 - BinaryBasics](0x100-BinaryBasics/0x100-BinaryBasics.md)
     * [0x101 - NumberSystems](0x100-BinaryBasics/0x101-NumberSystems.md)
