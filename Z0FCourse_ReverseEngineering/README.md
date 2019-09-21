@@ -82,8 +82,9 @@ The best way to stay up-to-date is to support me on Patreon which will give you 
     * [0x402 - FunctionCall](0x400-BasicReversing/0x402-FunctionCall.md)
     * [0x403 - HelloWorld](0x400-BasicReversing/0x403-HelloWorld.md)
     * [0x404 - Loops](0x400-BasicReversing/0x404-Loops.md)
+<br/>
 
-- ### [0x500 - DLL](0x500-DLL)
+* ### [0x500 - DLL](0x500-DLL)
     * [0x500 - DLL](0x500-DLL/0x500-DLL.md)
     * [0x501 - BeforeWeBegin](0x500-DLL/0x501-BeforeWeBegin.md)
     * [0x502 - DLLBasics](0x500-DLL/0x502-DLLBasics.md)
@@ -95,7 +96,8 @@ The best way to stay up-to-date is to support me on Patreon which will give you 
     * [0x508 - MysteryFunc](0x500-DLL/0x508-MysteryFunc.md)
     * [0x509 - ImplementingPlayer](0x500-DLL/0x509-ImplementingPlayer.md)
     * [0x510 - FinalNotes](0x500-DLL/0x510-FinalNotes.md)
+<br/>
 
-- ### [0x600 - Malware](0x600-Malware) - WIP
+* ### [0x600 - Malware](0x600-Malware) - WIP
   * [0x600 - Malware](0x600-Malware/0x500-Malware.md)
   * [0x601 - Before We Begin](0x600-Malware/0x601-BeforeWeBegin.md)
