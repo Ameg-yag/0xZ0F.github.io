@@ -6,6 +6,9 @@ In order for 0x41414141 to be "AAAA" we need to have some sort of standard. This
 
 Here's a full ASCII table: http://www.asciitable.com/
 
-[Chapter Home](0x100-BinaryBasics.md)  
 [<- Previous Lesson](0x101-NumberSystems.md)  
-[Next Lesson ->](0x103-BitsAndBytes.md)
+[Next Lesson ->](0x103-BitsAndBytes.md)  
+
+
+[Chapter Home](0x100-BinaryBasics.md)  
+[Course Home](../README.md)  

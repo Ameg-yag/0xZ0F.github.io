@@ -1,3 +1,7 @@
 Add an intro to each chapter.
 
 Add previous and next links.
+
+Add chapter and course home links.
+
+Update files needed in 0x002, 0x401, 0x501

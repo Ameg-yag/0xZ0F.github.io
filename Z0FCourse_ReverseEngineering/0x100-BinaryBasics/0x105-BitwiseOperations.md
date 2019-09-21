@@ -38,6 +38,8 @@ These operations include **NOT**, **AND**, **OR**, and **XOR**.
   <img src="[ignore]/BOXor.png">
 </p>
 
-[Chapter Home](0x100-BinaryBasics.md)  
 [<- Previous Lesson](0x104-ProgrammingLanguages.md)  
-[Next Lesson ->](0x106-Mindset.md)
+[Next Lesson ->](0x106-Mindset.md)  
+
+[Chapter Home](0x100-BinaryBasics.md)  
+[Course Home](../README.md)  

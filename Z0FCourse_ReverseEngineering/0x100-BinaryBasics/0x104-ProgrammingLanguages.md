@@ -19,6 +19,8 @@ Another huge advantage of these kinds of languages is security. Everything runs 
 
 Back to Python. Python is similar to Java and .NET because Python is actually compiled into bytecode. This bytecode is then interpreted line by line by a VM just like Java and .NET.
 
-[Chapter Home](0x100-BinaryBasics.md)  
 [<- Previous Lesson](0x103-BitsAndBytes.md)  
-[Next Lesson ->](0x105-BitwiseOperations.md)
+[Next Lesson ->](0x105-BitwiseOperations.md)  
+
+[Chapter Home](0x100-BinaryBasics.md)  
+[Course Home](../README.md)  
