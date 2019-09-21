@@ -75,6 +75,7 @@ The best way to stay up-to-date is to support me on Patreon which will give you 
     * [0x302 - Debugging](0x300-Tools/0x302-Debugging.md)
     * [0x303 - DarkThemes](0x300-Tools/0x303-DarkThemes.md)
     * [0x304 - ToolGuides](0x300-Tools/0x304-ToolGuides.md)
+
   
 * ### [0x400 - BasicReversing](0x400-BasicReversing)
     * [0x400 - BasicReversing](0x400-BasicReversing/0x200-BasicReversing.md)
@@ -94,7 +95,7 @@ The best way to stay up-to-date is to support me on Patreon which will give you 
     * [0x507 - PrintPlayerStats](0x500-DLL/0x507-PrintPlayerStats.md)
     * [0x508 - MysteryFunc](0x500-DLL/0x508-MysteryFunc.md)
     * [0x509 - ImplementingPlayer](0x500-DLL/0x509-ImplementingPlayer.md)
-    * [0x510 - FinalNotes](0x500-DLL/0x510-FinalNotes.md)
+    * [0x510 - FinalNotes](0x500-DLL/0x510-FinalNotes.md)  
 
 * ### [0x600 - Malware](0x600-Malware) - WIP
     * [0x600 - Malware](0x600-Malware/0x500-Malware.md)
