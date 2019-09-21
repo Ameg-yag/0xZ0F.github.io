@@ -83,6 +83,7 @@ The best way to stay up-to-date is to support me on Patreon which will give you 
     * [0x403 - HelloWorld](0x400-BasicReversing/0x403-HelloWorld.md)
     * [0x404 - Loops](0x400-BasicReversing/0x404-Loops.md)
 <br/>
+<br/>
 
 * ### [0x500 - DLL](0x500-DLL)
     * [0x500 - DLL](0x500-DLL/0x500-DLL.md)
@@ -96,6 +97,7 @@ The best way to stay up-to-date is to support me on Patreon which will give you 
     * [0x508 - MysteryFunc](0x500-DLL/0x508-MysteryFunc.md)
     * [0x509 - ImplementingPlayer](0x500-DLL/0x509-ImplementingPlayer.md)
     * [0x510 - FinalNotes](0x500-DLL/0x510-FinalNotes.md)
+<br/>
 <br/>
 
 * ### [0x600 - Malware](0x600-Malware) - WIP
