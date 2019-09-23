@@ -5,7 +5,7 @@
 [RE Course](/Z0FCourse_ReverseEngineering/README.md)
 
 # Plan:
-Right now I'm migrating my reverse engineering course onto this website. Once that is done, I will finish the malware section. I will also migrate my other website ([https://www.z0fsec.tk/](https://www.z0fsec.tk/)) here. I'm not sure how I will integrate blog posts just yet.
+Right now I'm migrating my reverse engineering course onto this website. Once that is done, I will finish the malware section.
 
 I really want to start a binary exploitation and exploit development course (I don't know if I'll make two separate courses or not). I know that I should also add a chapter to the RE course based around reversing a real piece of software. I'm not sure which one I'll do first. My mind is racing about all the things I want to teach about binary exploitation, but it's probably best to add the chapter to the RE course.
 
