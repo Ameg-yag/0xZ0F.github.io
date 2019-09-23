@@ -24,8 +24,8 @@ As you can see there is no IDA Pro! With the release of Ghidra, there isn't real
 
 Some other good software you may want to take a look at some time is Hopper, Radare, and Binary Ninja. Of those, only Radare is free. Hopper has a free version but you can only use it for a certain amount of time.
 
-## Target Software - WIP:
-All files we will be reversing are in [FilesNeeded](FilesNeeded). I'm unable to distribute all software due to legal reasons. Any programs that I didn't provide directly are listed in [FilesNeeded/@ExternalResources.txt](FilesNeeded/@ExternalResources.txt).
+## Target Software:
+All of the files you will need are in [0x000-IntroductionAndSetup/FilesNeeded](FilesNeeded/FilesNeeded.md).
 
 **Warning: The files may change over time. I will try to update the course as needed.**
 

@@ -4,7 +4,7 @@
 Why reverse engineer a DLL? Sometimes the documentation for a library isn't well written or written at all. If we want to use the DLL, we will need to know how it works. In some aspects, reversing DLLs can be easier than reversing executables because we have the names of the exported functions. In this chapter, we will not only reverse a DLL, but we will write a program that can use it.
 
 # Files Needed - WIP
-All files used are in [0x000-IntroductionAndSetup/FilesNeeded](../0x000-IntroductionAndSetup/FilesNeeded)
+You can find the files needed [here](../0x000-IntroductionAndSetup/FilesNeeded/FilesNeeded.md).
 
 # x64dbg DLL Loading
 Make sure you have "DLL Entry" breakpoints enabled.

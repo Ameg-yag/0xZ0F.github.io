@@ -7,7 +7,7 @@ This chapter will cover information you will need as well as how to get setup.
 
 ## Resources Needed:
 
-* Software mentioned in the setup.
+* Files mentioned in [0x002-Setup](0x002-Setup.md). These files can be found [here](FilesNeeded/FilesNeeded.md). More is covered in 0x002-Setup.
 * The ability to run one virtual machine is recommended, but not required.
 
 # Prerequisites
