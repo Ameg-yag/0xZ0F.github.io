@@ -36,9 +36,19 @@ There is one component that is particularly interesting, which is the fire butto
 
 Here are the properties for `fireButton`:
 
-<p>
-  <img src="assets/Memecat/FireButtonInit1.png">
-</p>
+```csharp
+this.fireButton.BackColor = Color.Red;
+this.fireButton.Enabled = false;
+this.fireButton.Font = new Font("Microsoft Sans Serif", 16f, FontStyle.Bold, GraphicsUnit.Point, 0);
+this.fireButton.ForeColor = Color.White;
+this.fireButton.Location = new Point(785, 673);
+this.fireButton.Name = "fireButton";
+this.fireButton.Size = new Size(114, 68);
+this.fireButton.TabIndex = 5;
+this.fireButton.Text = "Fire!";
+this.fireButton.UseVisualStyleBackColor = false;
+this.fireButton.Click += this.FireButton_Click;
+```
 
 Here is the code for `FireButton_Click`:
 
@@ -126,7 +136,7 @@ It's a very simple function which XORs each character in the input field with th
 
 I accomplished this task in C++, here is the code:
 
-```c_cpp
+```c
 #include <iostream>
 
 int main() {
