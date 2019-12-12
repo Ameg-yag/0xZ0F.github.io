@@ -42,7 +42,7 @@ Here are the properties for `fireButton`:
 
 Here is the code for `FireButton_Click`:
 
-```C#
+```csharp
 private void FireButton_Click(object sender, EventArgs e)
 {
 	if (this.codeTextBox.Text == "RAINBOW")
@@ -72,7 +72,7 @@ Here is what the program looks like now:
 
 Following the same path as last time, here is the `FireButton_Click` function:
 
-```C#
+```csharp
 private void FireButton_Click(object sender, EventArgs e)
 {
 	if (this.isValidWeaponCode(this.codeTextBox.Text))
@@ -93,7 +93,7 @@ private void FireButton_Click(object sender, EventArgs e)
 As you can see it's not so simple now. Instead there is a boolean function called `isValidWeaponCode` that is determining whether the input is correct or not. The function takes one parameter which is the text in the textbox.  
 Here is that function:
 
-```C#
+```csharp
 private bool isValidWeaponCode(string s)
 		{
 			char[] array = s.ToCharArray();
@@ -126,7 +126,7 @@ It's a very simple function which XORs each character in the input field with th
 
 I accomplished this task in C++, here is the code:
 
-```C++
+```c_cpp
 #include <iostream>
 
 int main() {
