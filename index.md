@@ -1,13 +1,14 @@
 # Z0F - Research, courses, and more.
 
-# WIP - This will become the home of my courses. I'm currently migrating the course onto this website. THERE WILL BE ISSUES! I'm working to get everything going, it should be done soon!
-
-[RE Course](/Z0FCourse_ReverseEngineering/README.md)
+[RE Course - REVAMP SOON](/Z0FCourse_ReverseEngineering/README.md)
 
 # Plan:
-Right now I'm migrating my reverse engineering course onto this website. Once that is done, I will finish the malware section.
+!!! - The reverse engineering course is getting a revamp soon! I will be adding more detail as well as content.
 
-I really want to start a binary exploitation and exploit development course (I don't know if I'll make two separate courses or not). I know that I should also add a chapter to the RE course based around reversing a real piece of software. I'm not sure which one I'll do first. My mind is racing about all the things I want to teach about binary exploitation, but it's probably best to add the chapter to the RE course.
+I'm working on a basic exploit development course as well.
+
+# Places
+--TODO
 
 # What About The "Old"/GitHub Courses?
 I originally hosted these courses directly on GitHub. Here is my [reverse engineering course](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering). I call those my "GitHub courses". I've copied these courses onto this website, these courses are called the "website courses". So what will I do now? I want to make the website the home of everything, so I want my website to become the primary source for my courses. If you want the most up-to-date version of the courses the website version will most likely be it. I will continue to update the GitHub courses.
