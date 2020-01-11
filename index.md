@@ -1,6 +1,7 @@
 # Z0F - Research, courses, and more.
 
-[RE Course - REVAMP SOON](/Z0FCourse_ReverseEngineering/README.md)
+# ATTENTION:
+The reverse engineering course is being moved back to GitHub. Maintaining the course on this website is much more difficult and annoying. 
 
 # Plan:
 !!! - The reverse engineering course is getting a revamp soon! I will be adding more detail as well as content.
