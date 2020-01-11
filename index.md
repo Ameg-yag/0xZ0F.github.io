@@ -1,7 +1,8 @@
 # Z0F - Research, courses, and more.
 
 # ATTENTION:
-The reverse engineering course is being moved back to GitHub. Maintaining the course on this website is much more difficult and annoying. 
+**The reverse engineering course has been moved back to GitHub. Maintaining the course on this website was too difficult and annoying.**  
+You can find the course here: [https://github.com/0xZ0F/Z0FCourse_ReverseEngineering](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering)
 
 # Plan:
 !!! - The reverse engineering course is getting a revamp soon! I will be adding more detail as well as content.
