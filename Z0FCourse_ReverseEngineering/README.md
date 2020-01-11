@@ -2,9 +2,7 @@
 layout: default
 ---
 
-# Z0FCourse_ReverseEngineering -- 0x000 to 0x500 Finished/Ready
-
-### This course is not fully complete and lacks some detail and later content. It's fine to start following it, but know that it may be a bit vague and basic. Stay updated by following me on [Twitter](https://twitter.com/0xZ0F).
+# MOVED BACK TO GITHUB: https://github.com/0xZ0F/Z0FCourse_ReverseEngineering
 
 # Get Started: [0x000 - Introduction And Setup](0x000-IntroductionAndSetup/0x000-IntroductionAndSetup.md)
 
